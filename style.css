@@ -1,0 +1,60 @@
+main{
+    background-color: rgb(29, 24, 24);
+    font-family: 'Domine', serif;
+
+    
+}
+.logo{
+    text-align: center;
+    padding: 30px;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Domine', serif;
+
+}
+.principal{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.usuario{
+   padding: 25px;
+   
+
+}
+
+a:hover img{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    
+}
+
+.botão{
+   display: flex;
+   justify-content: center;
+}
+
+button{
+    background-color: rgb(29, 24, 24);
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    width: 200px;
+    margin: 50px;
+    font-family: 'Domine', serif;
+    font-size: 20px;
+
+
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
